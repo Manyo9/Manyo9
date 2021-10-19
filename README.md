@@ -1,0 +1,3 @@
+- Hi, I’m @Manyo9
+- I’m interested in InfoSec mostly. I've been working as a web pentester for 2 years.
+- I’m currently doing a programming course at my uni.
