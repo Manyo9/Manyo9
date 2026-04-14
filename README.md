@@ -1,4 +1,4 @@
 - Hi, I’m @Manyo9
-- I’m interested in InfoSec mostly. I've been working as a web pentester for 6 years.
+- I’m interested in InfoSec mostly. I've worked as a web pentester for 3 years, then as a security engineer for another 3.
 - I am RedTeaming at an e-commerce company.
 - There's probably not much to see here for now
