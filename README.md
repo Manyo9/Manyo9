@@ -1,4 +1,19 @@
-- Hi, I’m @Manyo9
-- I’m interested in InfoSec mostly. I've worked as a web pentester for 3 years, then as a security engineer for another 3.
-- I am RedTeaming at an e-commerce company.
-- There's probably not much to see here for now
+# Hi, I'm bl4ckw4t3r aka Manyo
+
+Offensive security engineer since 2019. I started working in 2023 as a web application pentester,
+then 3 as a security engineer. Currently on the **Red Team** at an e-commerce company.
+
+Focus: application security, red teaming, and vulnerability research.
+
+## 🔎 Vulnerability Research
+
+Soon!
+
+## 📫 Contact & Verification
+
+- **Research email:** bl4ckw4t3rrr@gmail.com
+- **HackerOne:** [bl4ckw4t3r](https://hackerone.com/bl4ckw4t3r)
+- **GPG:** `37F3 F585 49D2 7B5E 162F  6BC2 BE39 0695 D12A CFB3`
+
+> The handles `bl4ckw4t3r` (research / HackerOne) and `Manyo9` (GitHub) are the
+> same individual — cross-linked here, on HackerOne, and by signed commits.
