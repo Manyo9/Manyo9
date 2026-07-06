@@ -5,15 +5,15 @@ then as a security engineer. Currently on the **Red Team** at an e-commerce comp
 
 Focus: application security, red teaming, and vulnerability research.
 
-## 🔎 Vulnerability Research
+## Vulnerability Research
 
 Soon!
 
-## 📫 Contact & Verification
+## Contact & Verification
 
 - **Research email:** bl4ckw4t3rrr@gmail.com
 - **HackerOne:** [bl4ckw4t3r](https://hackerone.com/bl4ckw4t3r)
 - **GPG:** `37F3 F585 49D2 7B5E 162F  6BC2 BE39 0695 D12A CFB3`
 
 > The handles `bl4ckw4t3r` (research / HackerOne) and `Manyo9` (GitHub) are the
-> same individual — cross-linked here, on HackerOne, and by signed commits.
+> same individual. Cross-linked here, on HackerOne (or other platforms), and by signed commits.
