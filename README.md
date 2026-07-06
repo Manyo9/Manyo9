@@ -1,7 +1,7 @@
 # Hi, I'm bl4ckw4t3r aka Manyo
 
-Offensive security engineer since 2019. I started working in 2023 as a web application pentester,
-then 3 as a security engineer. Currently on the **Red Team** at an e-commerce company.
+Offensive security engineer since 2019. I started working as a web application pentester,
+then as a security engineer. Currently on the **Red Team** at an e-commerce company since 2023.
 
 Focus: application security, red teaming, and vulnerability research.
 
