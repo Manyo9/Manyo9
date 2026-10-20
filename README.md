@@ -13,6 +13,7 @@ Soon!
 
 - **Research email:** bl4ckw4t3rrr@gmail.com
 - **HackerOne:** [bl4ckw4t3r](https://hackerone.com/bl4ckw4t3r)
+- **Twitter:** [bl4ckw4t3r_sec](https://x.com/bl4ckw4t3r_sec)
 - **GPG:** `37F3 F585 49D2 7B5E 162F  6BC2 BE39 0695 D12A CFB3`
 
 > The handles `bl4ckw4t3r` (research / HackerOne) and `Manyo9` (GitHub) are the
