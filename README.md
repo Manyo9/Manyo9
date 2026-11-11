@@ -7,7 +7,7 @@ Focus: application security, red teaming, and vulnerability research.
 
 ## Vulnerability Research
 
-Soon!
+[My published GHSAs](https://github.com/Manyo9/Manyo9/blob/main/advisories.md)
 
 ## Contact & Verification
 
