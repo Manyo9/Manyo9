@@ -9,6 +9,10 @@ Focus: application security, red teaming, and vulnerability research.
 
 [My published GHSAs](https://github.com/Manyo9/Manyo9/blob/main/advisories.md)
 
+If you are going to mention me on reports, advisories, e-mails, or similar, please do so as "bl4ckw4t3r (@Manyo9)".
+
+- Support me on: https://ko-fi.com/bl4ckw4t3r
+
 ## Contact & Verification
 
 - **Research email:** bl4ckw4t3rrr@gmail.com
@@ -16,5 +20,4 @@ Focus: application security, red teaming, and vulnerability research.
 - **Twitter:** [bl4ckw4t3r_sec](https://x.com/bl4ckw4t3r_sec)
 - **GPG:** `37F3 F585 49D2 7B5E 162F  6BC2 BE39 0695 D12A CFB3`
 
-> The handles `bl4ckw4t3r` (research / HackerOne) and `Manyo9` (GitHub) are the
-> same individual. Cross-linked here, on HackerOne (or other platforms), and by signed commits.
+> The handles `bl4ckw4t3r` (e.g. on HackerOne) and `Manyo9` (GitHub) are the same individual.
